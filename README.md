@@ -131,3 +131,5 @@ To run on each python file here, use these commands:
 python -m black make_heatmap.ipynb
 python -m black util/color_key.py
 ```
+
+Added text to the README.md
