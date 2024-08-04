@@ -38,3 +38,5 @@
 
 - [ ] The color palette choices of the slide are contrasted in a way that is friendly to those with color vision deficiencies.
 You can check this using [Color Oracle](https://colororacle.org/).
+
+- [ ] Another item in the check list.
